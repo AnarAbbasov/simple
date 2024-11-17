@@ -92,7 +92,7 @@ void app_main(void) {
     wifi_config_t wifi_config = {
         .sta = {
             .ssid = "Netzwerk_EXT",
-            .password = "TedMiller@2023",
+            .password = "33433443",
             .threshold.authmode = WIFI_AUTH_WPA2_PSK, 
             .pmf_cfg = { .capable = true, .required = false },
         },
