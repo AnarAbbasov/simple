@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/anar/esp_web_server/simple/build/CMakeFiles/bootloader
+/home/anar/esp_web_server/simple/build/CMakeFiles/bootloader.rule
+/home/anar/esp_web_server/simple/build/CMakeFiles/bootloader-complete.rule
+/home/anar/esp_web_server/simple/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/anar/esp_web_server/simple/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/anar/esp_web_server/simple/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/anar/esp_web_server/simple/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/anar/esp_web_server/simple/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/anar/esp_web_server/simple/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/anar/esp_web_server/simple/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
